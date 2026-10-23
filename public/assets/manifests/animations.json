@@ -1,0 +1,368 @@
+{
+  "version": "2.1.0",
+  "description": "Etheria Chronicles Phase 2.1 Genuine PNG Sprite Sheet Manifest",
+  "monsters": {
+    "aqua_slime": {
+      "name": "Aqua Slime",
+      "path": "/assets/monsters/sunken-ruins/aqua_slime.png",
+      "frameWidth": 64,
+      "frameHeight": 64,
+      "framesPerRow": 6,
+      "totalRows": 4,
+      "animations": {
+        "idle": {
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "frameRate": 5,
+          "repeat": -1
+        },
+        "walk": {
+          "frames": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "frameRate": 8,
+          "repeat": -1
+        },
+        "attack": {
+          "frames": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "frameRate": 8,
+          "repeat": 0
+        },
+        "hit": {
+          "frames": [
+            18,
+            19
+          ],
+          "frameRate": 6,
+          "repeat": 0
+        },
+        "die": {
+          "frames": [
+            20,
+            21,
+            22,
+            23
+          ],
+          "frameRate": 6,
+          "repeat": 0
+        }
+      },
+      "origin": {
+        "x": 0.5,
+        "y": 0.65
+      },
+      "bodySize": {
+        "width": 28,
+        "height": 24,
+        "offsetX": 18,
+        "offsetY": 28
+      }
+    },
+    "reef_crab": {
+      "name": "Reef Crab",
+      "path": "/assets/monsters/sunken-ruins/reef_crab.png",
+      "frameWidth": 64,
+      "frameHeight": 64,
+      "framesPerRow": 6,
+      "totalRows": 4,
+      "animations": {
+        "idle": {
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "frameRate": 5,
+          "repeat": -1
+        },
+        "walk": {
+          "frames": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "frameRate": 9,
+          "repeat": -1
+        },
+        "attack": {
+          "frames": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "frameRate": 9,
+          "repeat": 0
+        },
+        "hit": {
+          "frames": [
+            18,
+            19
+          ],
+          "frameRate": 6,
+          "repeat": 0
+        },
+        "die": {
+          "frames": [
+            20,
+            21,
+            22,
+            23
+          ],
+          "frameRate": 6,
+          "repeat": 0
+        }
+      },
+      "origin": {
+        "x": 0.5,
+        "y": 0.65
+      },
+      "bodySize": {
+        "width": 34,
+        "height": 26,
+        "offsetX": 15,
+        "offsetY": 26
+      }
+    },
+    "drowned_warrior": {
+      "name": "Drowned Warrior",
+      "path": "/assets/monsters/sunken-ruins/drowned_warrior.png",
+      "frameWidth": 64,
+      "frameHeight": 64,
+      "framesPerRow": 6,
+      "totalRows": 4,
+      "animations": {
+        "idle": {
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "frameRate": 4,
+          "repeat": -1
+        },
+        "walk": {
+          "frames": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "frameRate": 7,
+          "repeat": -1
+        },
+        "attack": {
+          "frames": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "frameRate": 8,
+          "repeat": 0
+        },
+        "hit": {
+          "frames": [
+            18,
+            19
+          ],
+          "frameRate": 6,
+          "repeat": 0
+        },
+        "die": {
+          "frames": [
+            20,
+            21,
+            22,
+            23
+          ],
+          "frameRate": 5,
+          "repeat": 0
+        }
+      },
+      "origin": {
+        "x": 0.5,
+        "y": 0.65
+      },
+      "bodySize": {
+        "width": 26,
+        "height": 34,
+        "offsetX": 19,
+        "offsetY": 20
+      }
+    },
+    "sea_serpent": {
+      "name": "Sea Serpent",
+      "path": "/assets/monsters/sunken-ruins/sea_serpent.png",
+      "frameWidth": 64,
+      "frameHeight": 64,
+      "framesPerRow": 6,
+      "totalRows": 4,
+      "animations": {
+        "idle": {
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "frameRate": 5,
+          "repeat": -1
+        },
+        "walk": {
+          "frames": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "frameRate": 8,
+          "repeat": -1
+        },
+        "attack": {
+          "frames": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "frameRate": 8,
+          "repeat": 0
+        },
+        "hit": {
+          "frames": [
+            18,
+            19
+          ],
+          "frameRate": 6,
+          "repeat": 0
+        },
+        "die": {
+          "frames": [
+            20,
+            21,
+            22,
+            23
+          ],
+          "frameRate": 6,
+          "repeat": 0
+        }
+      },
+      "origin": {
+        "x": 0.5,
+        "y": 0.65
+      },
+      "bodySize": {
+        "width": 36,
+        "height": 30,
+        "offsetX": 14,
+        "offsetY": 22
+      }
+    }
+  },
+  "bosses": {
+    "tide_lord": {
+      "name": "Tide Lord",
+      "path": "/assets/bosses/tide_lord.png",
+      "frameWidth": 128,
+      "frameHeight": 128,
+      "framesPerRow": 6,
+      "totalRows": 4,
+      "animations": {
+        "idle": {
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "frameRate": 5,
+          "repeat": -1
+        },
+        "walk": {
+          "frames": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "frameRate": 7,
+          "repeat": -1
+        },
+        "attack": {
+          "frames": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "frameRate": 6,
+          "repeat": 0
+        },
+        "hit": {
+          "frames": [
+            18,
+            19
+          ],
+          "frameRate": 6,
+          "repeat": 0
+        },
+        "die": {
+          "frames": [
+            20,
+            21,
+            22,
+            23
+          ],
+          "frameRate": 5,
+          "repeat": 0
+        }
+      },
+      "origin": {
+        "x": 0.5,
+        "y": 0.65
+      },
+      "bodySize": {
+        "width": 56,
+        "height": 72,
+        "offsetX": 36,
+        "offsetY": 36
+      }
+    }
+  },
+  "tilesets": {
+    "sunken_ruins": {
+      "name": "Sunken Ruins Tileset",
+      "path": "/assets/tilesets/sunken_ruins_tileset.png",
+      "tileWidth": 32,
+      "tileHeight": 32,
+      "columns": 5,
+      "rows": 4
+    }
+  }
+}

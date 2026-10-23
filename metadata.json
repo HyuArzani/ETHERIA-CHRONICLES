@@ -1,0 +1,6 @@
+{
+  "name": "Etheria Chronicles",
+  "description": "A nostalgic 2D browser MMORPG with job progression, monster grinding, rare loot, pets, and exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
